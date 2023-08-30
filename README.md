@@ -2,7 +2,12 @@
 
 Social networking apps. FrontEnd written in Flutter. BackEnd written in golang.(Is in the process of finishing)
 
-Include function
+![09ff5ef05b01965fcf10](https://user-images.githubusercontent.com/34266061/150667095-08890305-ede3-4dd1-8d5d-37103c41bc08.jpg)
+![2ce733e93618fb46a209](https://user-images.githubusercontent.com/34266061/150667092-e9fa06c6-b564-4771-8aa2-fafd8d8af567.jpg)
+![c8a601b10440c91e9051](https://user-images.githubusercontent.com/34266061/150667097-3426d19d-ac89-46e8-9bcf-e149805423c5.jpg)
+![789fcffbce0603585a17](https://user-images.githubusercontent.com/34266061/150682864-05fbd41c-89f1-4760-a2b5-f9214a925fe8.jpg)
+## Include function
+
 - SignUp, SignIn
 - JWT
 - Show list of users
@@ -14,11 +19,6 @@ Include function
 - Follow (In progress)
 - Send message (In progress)
 - Show list message (In progress)
-
-![09ff5ef05b01965fcf10](https://user-images.githubusercontent.com/34266061/150667095-08890305-ede3-4dd1-8d5d-37103c41bc08.jpg)
-![2ce733e93618fb46a209](https://user-images.githubusercontent.com/34266061/150667092-e9fa06c6-b564-4771-8aa2-fafd8d8af567.jpg)
-![c8a601b10440c91e9051](https://user-images.githubusercontent.com/34266061/150667097-3426d19d-ac89-46e8-9bcf-e149805423c5.jpg)
-![789fcffbce0603585a17](https://user-images.githubusercontent.com/34266061/150682864-05fbd41c-89f1-4760-a2b5-f9214a925fe8.jpg)
 
 ## Getting Started
 
